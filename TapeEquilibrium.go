@@ -40,7 +40,6 @@ func tapeEquilibrium(a []int64) int64 {
 
 
 
-
 func main() {
 	fmt.Println("Codility Tape Equilibrium problem")
 	a := []int64 {3, 1, 2, 4, 3} 
